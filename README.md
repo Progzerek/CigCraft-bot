@@ -6,6 +6,7 @@ A discord bot for controlling minecraft server trough Puffer Panel!
 1. Installing it with the CigCraft Puffer template (Soon)
 
 2. Run the main file as it is
+
      Make sure you fill out the .env file with the right infromations
 
 
