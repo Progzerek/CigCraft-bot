@@ -1,7 +1,7 @@
 # CigCraft-bot
 A lightweight discord bot for controlling minecraft server trough Puffer Panel!
 
-#Features:
+# Features:
 
 `/mc hello` - Greet the server
 
