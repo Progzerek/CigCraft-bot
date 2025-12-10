@@ -19,13 +19,13 @@ A lightweight discord bot for controlling minecraft server trough Puffer Panel!
 
 `/mc cmd {command}` - write in any command - example /mc cmd say hi (OP required)
 
-2 Ways of running CigCraft:
+# 2 Ways of running CigCraft:
 
 1. Installing it with the CigCraft Puffer template (Soon)
 
       - Still working on the complete Puffer template
   
-      - for now the best way of running it in Puffer is to use a discord.py template with the .env filled out
+      - for now the best way of running it in Puffer is to use a discord.py template with the .env filled out, and reqirements
 
 2. Run the main file as it is
 
