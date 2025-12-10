@@ -29,6 +29,8 @@ A lightweight discord bot for controlling minecraft server trough Puffer Panel!
 
 2. Run the main file as it is
 
+      - install python, and the requrements inside the requirements.txt
+
       - fill out the .env file with the righ information
   
       - run the program
