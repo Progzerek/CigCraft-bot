@@ -21,6 +21,10 @@ A lightweight discord bot for controlling minecraft server trough Puffer Panel!
 
 # 2 Ways of running CigCraft:
 
+ - Before running, you will need to make an app on discord.dev
+
+ - i will not provide exact walktrough, because its a straight process (if really requested i will make)
+
 1. Installing it with the CigCraft Puffer template (Soon)
 
       - Still working on the complete Puffer template
